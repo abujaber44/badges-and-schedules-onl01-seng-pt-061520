@@ -5,4 +5,4 @@ end
 def batch_badge_creator(name)
   names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 names.each do |name|
-  puts ""
+  puts "Hello, my name is #{name}"
